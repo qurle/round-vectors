@@ -1,6 +1,6 @@
 {
-  "name": "Plugin name",
-  "id": "000000000000000000",
+  "name": "Round vectors",
+  "id": "1225771986739344156",
   "api": "1.0.0",
   "main": "code.js",
   "editorType": [
@@ -9,9 +9,8 @@
   "relaunchButtons": [
     {
       "command": "relaunch",
-      "name": "do the stuff again",
+      "name": "Round vectors",
       "multipleSelection": true
     }
-  ],
-  "ui": "ui.html"
+  ]
 }

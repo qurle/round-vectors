@@ -1,5 +1,5 @@
 {
-  "name": "plugin-name",
+  "name": "round-vectors",
   "version": "1.0.0",
   "description": "insert your description",
   "main": "code.js",
@@ -7,7 +7,7 @@
     "build": "tsc -p tsconfig.json",
     "watch": "npm run build -- --watch"
   },
-  "author": "your precious name",
+  "author": "Nick Qurle",
   "license": "",
   "devDependencies": {
     "@figma/plugin-typings": "^1.56.0"
